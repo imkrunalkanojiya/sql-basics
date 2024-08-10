@@ -21,4 +21,4 @@
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/DSA-Programming-Problems-in-JavaScript/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/sql-basics/count.svg" alt ="Loading">
